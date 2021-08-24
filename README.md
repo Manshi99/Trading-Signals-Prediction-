@@ -1,4 +1,4 @@
-# Trading-Signals-Prediction-
+# Trading-Signals-Prediction
 MSBA Capstone Project with Spinnaker Analytics
 
 Team 14 members: Tzuhua(Agnes) Huang, Ziqi Shan, Kangjing Shi, Man Shi
